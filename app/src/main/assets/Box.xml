@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Boxes>
+    <box>
+        <id>1</id>
+        <value>First</value>
+    </box>
+    <box>
+        <id>2</id>
+        <value>Second</value>
+    </box>
+    <box>
+        <id>3</id>
+        <value>Third</value>
+    </box>
+</Boxes>
